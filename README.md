@@ -1,2 +1,2 @@
 # KnightHare.com
-Website hehe
+This is where i put my dumb ideas

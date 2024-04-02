@@ -1,4 +1,3 @@
-# KnightHare.com
 *"That's how it is on this bitch of an earth."* \
 &nbsp;&nbsp;&nbsp;*- Samuel Beckett*
 
